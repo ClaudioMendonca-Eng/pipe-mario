@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/>
+<a href="https://github.com/ClaudioMendonca-Eng"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
 
 
 ![](https://i.imgur.com/Xdk4U4e.gif)
@@ -18,6 +18,6 @@ Este repositório reúne uma coleção de links úteis sobre diversos temas, com
 
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/>
+<a href="https://github.com/ClaudioMendonca-Eng"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/></a>
 
 
